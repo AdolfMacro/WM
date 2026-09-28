@@ -46,3 +46,6 @@ $ python3 main.py example/input.mp4 -o example/output
 # Issue
 if you see any problem in the program, you can tell us in the **Issues** part of this repository.
 it is better to send the content of the `report.log` file, too!
+
+
+[▶️ Watch Demo](https://github.com/AdolfMacro/WM/raw/refs/heads/main/scRec.mp4)
