@@ -48,4 +48,4 @@ if you see any problem in the program, you can tell us in the **Issues** part of
 it is better to send the content of the `report.log` file, too!
 
 
-[▶️ Watch Demo](https://github.com/AdolfMacro/WM/raw/refs/heads/main/scRec.mp4)
+![▶️](https://raw.githubusercontent.com/AdolfMacro/WM/refs/heads/main/OUTex.gif)
